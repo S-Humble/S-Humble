@@ -2,11 +2,11 @@
 My name is Sam and I am in the process of retraining to start a career in data science and python development.
 
 ## What am I working on? 
-I am currently enrolled in the HyperionDev Data Science bootcamp with the aim of entering a data science or python dev role after in September 2024, after working as a Geography and computer science teacher in the UK. 
+I am currently enrolled in the HyperionDev Data Science bootcamp with the aim of entering a data science or python dev role after in September 2024, after working as a geography and computer science teacher in the UK. 
 
 ## What is my main interest? 
 I have an interest in sustainability and earth science. I would like an opportunity to develop my coding and data science skills in this field and want to get to a point where I am able to produce purposeful output that empowers people.
-I have experience in Earth observation and planetary scoence as well as geography education. 
+I have experience in earth observation and planetary science as well as geography education. 
 <!--
 **S-Humble/S-Humble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
