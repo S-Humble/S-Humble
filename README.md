@@ -8,6 +8,14 @@ Examples of teh code that I have been writing as a part of this course can be fo
 ## What is my main interest? 
 I have an interest in sustainability and earth science. I would like an opportunity to develop my coding and data science skills in this field and want to get to a point where I am able to produce purposeful output that empowers people.
 I have experience in earth observation and planetary science as well as geography education. 
+
+##What am I working on? 
+I am developing my data science stack throughout my course. 
+* Python
+* Matplotlib
+* Seaborn
+* NumPy
+
 <!--
 **S-Humble/S-Humble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
