@@ -18,7 +18,11 @@ I am developing my data science stack throughout my course.
 * Matplotlib
 * Seaborn
 * NumPy
+* Sci-kit learn 
 
+## Skills
+* EDA and preprocessing 
+* Linear / multilinear / logistic regression 
 <!--
 **S-Humble/S-Humble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
