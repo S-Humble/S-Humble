@@ -1,5 +1,6 @@
 ### Hi there 👋
-My name is Sam and I am in the process of retraining to start a career in data science and python development.
+My name is Sam and I am in the process of retraining to start a career in data science and python development. 
+I am in the process of job hunting for an entry level data science / data analytics role in Northamptonshire or remotely. 
 
 ## What am I working on? 
 I am currently enrolled in the HyperionDev Data Science bootcamp with the aim of entering a data science or python dev role in September 2024, after working as a geography and computer science teacher in the UK. 
